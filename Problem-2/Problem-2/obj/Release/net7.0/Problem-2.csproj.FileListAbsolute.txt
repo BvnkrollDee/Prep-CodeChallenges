@@ -1,0 +1,15 @@
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/bin/Release/net7.0/Problem-2
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/bin/Release/net7.0/Problem-2.deps.json
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/bin/Release/net7.0/Problem-2.runtimeconfig.json
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/bin/Release/net7.0/Problem-2.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/bin/Release/net7.0/Problem-2.pdb
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/Problem-2.csproj.AssemblyReference.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/Problem-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/Problem-2.AssemblyInfoInputs.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/Problem-2.AssemblyInfo.cs
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/Problem-2.csproj.CoreCompileInputs.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/Problem-2.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/refint/Problem-2.dll
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/Problem-2.pdb
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/Problem-2.genruntimeconfig.cache
+/Users/bvnkrolldee/Documents/GitHub/Reading-notes/Prep-CodeChallenges/Problem-2/Problem-2/obj/Release/net7.0/ref/Problem-2.dll
